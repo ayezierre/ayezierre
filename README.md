@@ -91,4 +91,4 @@ Git • GitHub • Docker • Linux
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/zayd-mahfuz/)•[Email](mailto:zaydmahfuz53@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/zayd-mahfuz/) • [Email](mailto:zaydmahfuz53@gmail.com)
