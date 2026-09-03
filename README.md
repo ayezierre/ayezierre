@@ -61,7 +61,7 @@ Designed and implemented a relational database using NYPD Motor Vehicle Collisio
 - Created reusable SQL views to analyze collision patterns by vehicle type, crash time, and contributing factors
 - Worked with a large real-world transportation dataset and translated it into a structured database system
 
-**Repository coming soon**
+[View Repository](https://github.com/ayezierre/nyc-collision-database)
 
 ---
 
