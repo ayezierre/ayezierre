@@ -6,8 +6,6 @@ I'm currently focused on strengthening my full-stack development skills while bu
 
 ## 🚀 Featured Projects
 
----
-
 ### 🏛️ Municipal Data Integration Portal
 **React • TypeScript • Python • FastAPI • REST APIs • Docker**
 
