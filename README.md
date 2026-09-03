@@ -6,18 +6,20 @@ I'm currently focused on strengthening my full-stack development skills while bu
 
 ## 🚀 Featured Projects
 
-### 🎮 Marvel Rivals Analytics Dashboard
-**React • TypeScript • Vite**
+---
 
-A full-stack analytics dashboard for exploring player performance and hero-specific statistics in Marvel Rivals.
+### 🏛️ Municipal Data Integration Portal
+**React • TypeScript • Python • FastAPI • REST APIs • Docker**
 
-- Building reusable React components for player and hero statistics
-- Calculating performance metrics including win rate and K/D
-- Designing the application for future API integration and expanded analytics
+Full-stack municipal data management application developed for the **Town of Landover Hills** to help staff prepare and standardize datasets for publication to the Maryland Open Data Portal.
 
-**Status:** 🚧 In Development
+- Contributed to both frontend and backend development as part of a three-person development effort
+- Built application functionality for managing municipal datasets and metadata
+- Worked with REST API endpoints connecting the React frontend to the FastAPI backend
+- Helped develop a streamlined ETL workflow for uploading, organizing, transforming, and exporting municipal data
+- Containerized the application with Docker to support reproducible local deployment
 
-[View Repository](https://github.com/ayezierre/marvel-rivals-dashboard)
+[View Repository](https://github.com/SheepFlamingo/Landover-Hills-Data-Integration)
 
 ---
 
@@ -35,6 +37,21 @@ Collaborative cybersecurity research project investigating how sensitive decoy d
 
 ---
 
+### 🎮 Marvel Rivals Analytics Dashboard
+**React • TypeScript • Vite**
+
+A full-stack analytics dashboard for exploring player performance and hero-specific statistics in Marvel Rivals.
+
+- Building reusable React components for player and hero statistics
+- Calculating performance metrics including win rate and K/D
+- Designing the application for future API integration and expanded analytics
+
+**Status:** 🚧 In Development
+
+[View Repository](https://github.com/ayezierre/marvel-rivals-dashboard)
+
+---
+
 ### 🚗 NYC Motor Vehicle Collision Database
 **MySQL • SQL • Database Design • Data Modeling**
 
@@ -47,20 +64,6 @@ Designed and implemented a relational database using NYPD Motor Vehicle Collisio
 - Worked with a large real-world transportation dataset and translated it into a structured database system
 
 **Repository coming soon**
-
----
-
-### 💱 XChange
-**JavaScript • REST APIs • HTML • CSS**
-
-Collaborative web application for exploring global fiat and cryptocurrency exchange rates.
-
-- Worked with external REST APIs and asynchronous data
-- Supported fiat and cryptocurrency conversion
-- Visualized historical exchange-rate trends
-- Collaborated through Git and GitHub on a shared application codebase
-
-[View Repository](https://github.com/zjwang168/377-Group-Project-API-Testing)
 
 ---
 
